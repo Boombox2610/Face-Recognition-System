@@ -3,7 +3,10 @@
 ## Introduction
 
 This repository contains Python code for a real-time face blurring application using OpenCV. Two scripts are provided, each demonstrating a different level of face anonymization.
-
+Video Demo:
+```bash
+https://youtu.be/wRvz-0KSUJk
+```
 ### Code 1 - Face Detection and Outline
 
 The first script detects faces in a webcam feed and outlines them with random-colored rectangles.
